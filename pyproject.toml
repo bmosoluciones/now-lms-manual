@@ -5,4 +5,3 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "now-lms-manual"
 authors = [{name = "BMO Soluciones, S.A."}]
-dynamic = ["version", "description"]
